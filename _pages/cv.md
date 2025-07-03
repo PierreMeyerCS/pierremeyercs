@@ -11,35 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Reichman University (Herzliya, Israel) and Université Paris Cité (Paris, France), 2023 (joint PhD. under the French ``cotutelle'' system)
+* Diploma of the Ecole Normale Supérieure de Lyon (confers a Masters degree), 2020
+* M.Sc. in Computer Science, Université Claude Bernard Lyon 1 (Lyon, France), 2019
+* B.Sc. in Computer Science, Université Claude Bernard Lyon 1, (Lyon, France), 2017
 
-Work experience
+Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-...: Postdoctoral researcher
+  * Aarhus University
+  * Aarhus, Denmark
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2020: "Normalien élève"
+  * Ecole Normale Supérieure de Lyon
+  * Lyon, France
   
-Skills
+Internships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020: Research intern at IDC Herzliya
+  * Herzliya, Israel
+  * Duration: Six months
+  * Lab: FACT Center
+  * Supervisor: Elette Boyle
+  * Topic: Lower Bounds for Topology-Hiding Computation
+
+* 2019: Research intern at University Paris Diderot
+  * Paris, France
+  * Duration: Three months
+  * Lab: IRIF
+  * Supervisor: Geoffroy Couteau
+  * Topic: Secure Computation with Low Communication
+
+* 2019: Research intern at Aarhus University
+  * Aarhus, Denmark
+  * Duration: Six months
+  * Lab:  Crypto Group
+  * Supervisors: Ivan Damgård and Daniel Tschudi
+  * Topic: Toplogy-Hiding Computation.
+
+* 2018: Research intern at Thalès Communications & Security
+  * Genevilliers, France
+  * Duration: three months
+  * Supervisors: Binh-Minh Bui-Xuan and Antoine Roux
+  * Topic: Performance Analysis of Rectangular Codes with Minimal Feedback Information
+  
+* 2018: Research intern at University Pierre & Marie Curie
+  * Paris, France
+  * Duration: six weeks
+  * Lab: LIP6
+  * Supervisors: Binh-Minh Bui-Xuan and Clémence Magnien
+  * Topic: Dynamic Connexity and Parameterised Complexity
+
+Professional Service
+======
+* Programme Committees: TCC [('24)](https://tcc.iacr.org/2024/callforpapers.php), SCN [('24)](https://scn.unisa.it/scn24/index.php/committees/), Crypto [('25)](https://crypto.iacr.org/2025/callforpapers.php)
 
 Publications
 ======
@@ -53,12 +78,10 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+--->
